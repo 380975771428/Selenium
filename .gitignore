@@ -1,0 +1,8 @@
+chromedriver.exe
+__pycache__/
+notes/
+*.so
+*.pyc
+.idea/
+dump/
+venv
